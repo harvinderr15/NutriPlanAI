@@ -28,8 +28,8 @@ NutriPlan AI is a sophisticated meal planning and calorie detection application 
 Clone the repository and install the dependencies using pipenv:
 
 ```bash
-git clone https://github.com/yourusername/ai-meal-planner.git
-cd ai-meal-planner
+git clone https://https://github.com/harvinderr15/NutriPlanAI
+cd NutriPlanAI
 pipenv install
 ```
 
